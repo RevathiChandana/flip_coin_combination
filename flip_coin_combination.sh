@@ -24,3 +24,4 @@ do
 	echo "percentage of the doublet combination of ${key_array[$i]} : $percentage"
 done
 
+
